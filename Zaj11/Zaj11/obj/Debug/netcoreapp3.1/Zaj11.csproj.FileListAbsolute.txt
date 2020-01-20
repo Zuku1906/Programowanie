@@ -1,0 +1,17 @@
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.exe
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.deps.json
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.runtimeconfig.json
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.dll
+C:\Users\drago\source\repos\Zaj11\Zaj11\bin\Debug\netcoreapp3.1\Zaj11.pdb
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11_MarkupCompile.cache
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11_MarkupCompile.lref
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.g.resources
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.AssemblyInfo.cs
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.dll
+C:\Users\drago\source\repos\Zaj11\Zaj11\obj\Debug\netcoreapp3.1\Zaj11.pdb

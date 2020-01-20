@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Imie" HorizontalAlignment="Left" Margin="42,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Naziwsko" HorizontalAlignment="Left" Margin="42,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.6,2.432"/>
+        <Label x:Name="label_Copy1" Content="PESEL" HorizontalAlignment="Left" Margin="42,0,0,0" VerticalAlignment="Center"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="80,74,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Margin="107,134,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Margin="88,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <RadioButton x:Name="radioButton" Content="Knur" HorizontalAlignment="Left" Margin="42,262,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton_Copy" Content="Locha" HorizontalAlignment="Left" Margin="148,262,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Wyślij" HorizontalAlignment="Left" Margin="269,349,0,0" VerticalAlignment="Top" Width="213" Click="button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Zaj11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zaj11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Calendar x:Name="Calendar" HorizontalAlignment="Left" Margin="293,13,0,0" VerticalAlignment="Top" Height="183" Width="199"/>
+        <Button x:Name="button" Content="Sprawdź" HorizontalAlignment="Center" VerticalAlignment="Center" Height="47" Width="135" Click="button_Click"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.exe
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.deps.json
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.runtimeconfig.json
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.dll
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\bin\Debug\netcoreapp3.1\Zad6Zaj10.pdb
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10_MarkupCompile.cache
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10_MarkupCompile.lref
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.g.resources
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.AssemblyInfo.cs
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.dll
+C:\Users\drago\source\repos\Zad6Zaj10\Zad6Zaj10\obj\Debug\netcoreapp3.1\Zad6Zaj10.pdb

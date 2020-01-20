@@ -1,0 +1,17 @@
+﻿<Window x:Class="Zaj11_zad2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zaj11_zad2"
+        mc:Ignorable="d"
+        Title="Fibonacci" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="34,32,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Height="28"/>
+        <Button x:Name="button" Content="Oblicz n-ty element" HorizontalAlignment="Left" Margin="40,73,0,0" VerticalAlignment="Top" Width="142" Height="24" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Oblicz sumę n elementów" HorizontalAlignment="Left" Margin="43,110,0,0" VerticalAlignment="Top" Width="142" Height="24" Click="button_Copy_Click"/>
+        <Button x:Name="button_Copy1" Content="Podaj informacje" HorizontalAlignment="Left" Margin="44,147,0,0" VerticalAlignment="Top" Width="142" Height="24" Click="button_Copy1_Click"/>
+        
+
+    </Grid>
+</Window>
