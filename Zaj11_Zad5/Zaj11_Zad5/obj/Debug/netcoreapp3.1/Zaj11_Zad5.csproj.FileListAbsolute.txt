@@ -1,0 +1,17 @@
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.exe
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.deps.json
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.runtimeconfig.json
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.dll
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\bin\Debug\netcoreapp3.1\Zaj11_Zad5.pdb
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5_MarkupCompile.cache
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5_MarkupCompile.lref
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.g.resources
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.AssemblyInfo.cs
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.dll
+C:\Users\drago\source\repos\Zaj11_Zad5\Zaj11_Zad5\obj\Debug\netcoreapp3.1\Zaj11_Zad5.pdb
