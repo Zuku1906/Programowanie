@@ -1,0 +1,15 @@
+﻿<Window x:Class="Zaj13_All.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zaj13_All"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="Zadanie 2" HorizontalAlignment="Left" Margin="81,45,0,0" VerticalAlignment="Top" Height="63" Width="123" Click="button_Click"/>
+        <Button x:Name="button1" Content="Zadanie 3" HorizontalAlignment="Left" Margin="244,44,0,0" VerticalAlignment="Top" Height="61" Width="120" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Zadanie 4" HorizontalAlignment="Left" Margin="168,123,0,0" VerticalAlignment="Top" Width="112" Height="69" Click="button2_Click"/>
+
+    </Grid>
+</Window>

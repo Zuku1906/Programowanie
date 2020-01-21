@@ -1,0 +1,15 @@
+﻿<Window x:Class="Zaj13_All.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zaj13_All"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="p1" HorizontalAlignment="Left" Margin="226,59,0,0" VerticalAlignment="Top" Height="48" Width="96" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="p2" HorizontalAlignment="Left" Margin="388,57,0,0" VerticalAlignment="Top" Height="48" Width="96" Click="button_Copy_Click"/>
+        <Button x:Name="button_Copy1" Content="p3" HorizontalAlignment="Left" Margin="300,126,0,0" VerticalAlignment="Top" Height="48" Width="96" Click="button_Copy1_Click"/>
+
+    </Grid>
+</Window>
