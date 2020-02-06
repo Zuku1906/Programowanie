@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
       "projectName": "WpfApp5",
-      "projectPath": "C:\\Users\\drago\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\source\\repos\\WpfApp5\\WpfApp5\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp5\\WpfApp5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
       "projectName": "WpfApp4",
-      "projectPath": "C:\\Users\\drago\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\source\\repos\\WpfApp4\\WpfApp4\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\WpfApp4\\WpfApp4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

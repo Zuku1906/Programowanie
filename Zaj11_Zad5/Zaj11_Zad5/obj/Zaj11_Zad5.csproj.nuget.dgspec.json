@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\source\\repos\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj": {}
+    "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\source\\repos\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj": {
+    "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj",
         "projectName": "Zaj11_Zad5",
-        "projectPath": "C:\\Users\\drago\\source\\repos\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj",
+        "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\Zaj11_Zad5\\Zaj11_Zad5\\Zaj11_Zad5.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\source\\repos\\Zaj11_Zad5\\Zaj11_Zad5\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\Programowanie\\Zaj11_Zad5\\Zaj11_Zad5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
