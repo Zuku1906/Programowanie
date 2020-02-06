@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.exe
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.deps.json
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.runtimeconfig.json
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.runtimeconfig.dev.json
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.dll
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\bin\Debug\netcoreapp3.1\GlencWersjaC.pdb
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\obj\Debug\netcoreapp3.1\GlencWersjaC.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\obj\Debug\netcoreapp3.1\GlencWersjaC.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\obj\Debug\netcoreapp3.1\GlencWersjaC.AssemblyInfo.cs
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\obj\Debug\netcoreapp3.1\GlencWersjaC.dll
+C:\Users\drago\source\repos\GlencWersjaC\GlencWersjaC\obj\Debug\netcoreapp3.1\GlencWersjaC.pdb
